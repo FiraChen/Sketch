@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JSketch</string>
+    <string name="save">Export</string>
+    <string name="select">Select</string>
+    <string name="erase">Erase</string>
+    <string name="line">Draw Line</string>
+    <string name="circle">Draw Circle</string>
+    <string name="rectangle">Draw Rectangle</string>
+    <string name="color">Color Picker</string>
+</resources>
