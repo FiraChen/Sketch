@@ -1,6 +1,6 @@
 # Sketch
 Shape drawing tool on android
-![alt text](https://github.com/FiraChen/Sketch/Screen Shot 2019-11-21 at 8.56.05 AM.png)
+![alt text](https://github.com/FiraChen/Sketch/demo.png)
 
 The JSketch app can be run in Pixel C using API 29. It will start as landscape version, then, you can choose to rotate to switch to vertical version.
 
